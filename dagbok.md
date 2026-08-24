@@ -1,0 +1,1 @@
+Veckans python 001: Jag tyckte veckans python var lite oklar till en början men fattade grejen lite mer när jag förstod de olika variablerna och print raden.

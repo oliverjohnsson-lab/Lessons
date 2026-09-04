@@ -6,3 +6,4 @@ vecka 3:
 Dag 1: Kollat på ip, mac, arp, nätverkstoppoligoer, subnetting, broadcast adresser, DHCP, DNS, Wireshark, defualt gateway. svårt att förstå hur man sätter ihop själva prosecen till det på packet traccer men de började lätta mot slutet igår. Förstod inte riktigt hur man exkluderade vissa ip adresser.
 Dag 2: 
 
+Vecka 4
